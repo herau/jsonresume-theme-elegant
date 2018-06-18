@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Laëtitia Cardet",
-    "label": "Gestionnaire paie et ADP",
+    "label": "Responsable paie et ADP",
     "picture": "",
     "email": "laetitia.cardet@hotmail.fr",
     "phone": "0633130263",
-    "summary": "Gestionnaire Paie et ADP",
+    "summary": "Responsable Paie et ADP",
     "location": {
-      "address": "15 rue Maurice Payret Dortail",
+      "address": "15 rue Benoit Malon",
       "postalCode": "92150",
       "city": "Suresnes"
     }
@@ -20,11 +20,12 @@
       "startDate": "2015-04",
       "endDate": "",
       "highlights": [
-        "Établir et contrôler les paies et les déclarations sociales",
-        "Coordonner et planifier la réalisation des paies des différentes entités du groupe",
-        "Manager l'équipe paie et ADP, garantir l'assistance, le conseil et la montée en compétence",
-        "Établir les indicateurs de suivi RH et les bilans obligatoires pour les partenaires sociaux",
-        "Contribuer au projet d'internalisation de la paie"
+        "Superviser la paie et l'administration du personnel, assurer les obligations déclaratives des différentes entités du groupe",
+        "Piloter, organiser et développer l'équipe paie et admnistration du personnel en mettant en place des procédures et des outils de contrôle efficaces, et en assurant la montée en compétence",
+        "Produire les indicateurs de suivi RH et Politique Sociale nécessaires aux instances représentatives",
+        "Gérer la mise en oeuvre des accords en paie",
+        "Créer et faire évoluer les tableaux de bord",
+        "Assurer le changement de solution de paie vers ADP Decidium (depuis janvier 2016)
       ]
     },
     {
